@@ -64,6 +64,7 @@ h5 {
 }
 .link-button:hover{
     background-image: linear-gradient(45deg, blue,cyan);
+}
 .biography{
     background-image: url(images/biography-bg.png);
     background-repeat: no-repeat;
