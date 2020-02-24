@@ -1,0 +1,126 @@
+body{
+    font-family: 'poppin', sans-serif;
+    margin: 0px;
+}
+section{
+    height: 700px;
+    padding-bottom: 150px;
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: darkslategray;
+}
+h3{
+    font-size: 45px;
+    color: darkslategray;
+}
+h5 {
+    font-size: 17px;
+    text-align: center;
+    color: darkslategray;
+    margin-bottom: 10px;
+}
+.highlight{
+    color: deeppink;
+}
+.half-width p{
+    color: dimgrey;
+    margin-bottom: 8%;
+    line-height: 1.6;
+    letter-spacing: 1px;
+
+}
+.half-width{
+    width: 32%;
+    float: left;
+    margin: 4%;
+    padding: 2%;
+
+}
+.intro{
+    padding-top: 8%;
+    padding-left: 14%;
+}
+ .bio {
+    padding-top: 3%;
+}
+.half-width img{
+    padding-top: 45px;
+    width: 100%;
+}
+.top-area{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(45deg, lightsalmon,tomato);
+    padding: 15px 28px;
+    border-radius : 5px;
+    margin-top: 5px;
+}
+.link-button:hover{
+    background-image: linear-gradient(45deg, blue,cyan);
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    padding-top: 9%;
+}
+
+.image{
+    width: 100%;
+    padding-left: 5%;
+    padding-top: 7%;
+}
+.image img{
+    width: 30%;
+}
+.footer-area .title{
+    text-align: center;
+}
+#position{
+    text-align: center;
+    font-size: 12px ;
+    color: gray; 
+
+}
+#comment {
+    margin: 5%;
+    letter-spacing: 1px;
+    line-height: 1.6;
+    color: slategrey;
+}
+.footer-area {
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.title h2{
+    margin-top: ;
+}
+
+.msg {
+    padding: 50px;
+    margin: 27%;
+    margin-top: 150px;
+    background-color: palevioletred;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding-top: 23px;
+}
+.msg a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer p{
+    text-align: center;
+    color: dimgray;
+}
